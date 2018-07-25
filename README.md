@@ -1,19 +1,29 @@
-# Terry Smith
+# This is a large heading
 
-### Geography:
+## This is a smaller heading
 
-I live in NY on LI - the fish shaped island south of Connecticut.
+And as **imagination** bodies forth,
+The forms of things *unknown*, the poet’s pen,
+Turns them to shapes and gives to airy nothing,
+A local *habitation* and a **name**.
 
-### Current Reads:
+- This is
+- an unordered
+- list
 
-- The Shape of Water
-- The North Road
- 
-### TO DOs:
+1. This is
+2. an ordered
+3. list
 
-- Learn to fly a glider
-- Build a telescope from an old camera zoom lens
+Here is `some code` in the middle of a sentence.
 
+```
+This is
+a block
+of code
+```
 
+Here is how you make [a link](https://www.wikipedia.org/).
 
+![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
